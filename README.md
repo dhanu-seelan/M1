@@ -10,6 +10,8 @@ Write a C program to read 3 characters one by one and print the characters in a 
 4.	End the program.
 
 ## PROGRAM:
+
+```
 #include<stdio.h>
 int main()
 {
@@ -20,6 +22,7 @@ int main()
     
 }
 
+```
 ## OUTPUT:
 
 <img width="1903" height="972" alt="image" src="https://github.com/user-attachments/assets/57064cdf-781b-47d6-8749-94992136151f" />
@@ -56,7 +59,7 @@ Write a C program to read A values and check whether A is positive number or not
 6.End the program.
 
 # PROGRAM:
-
+```
 #include<stdio.h>
 int main()
 {
@@ -72,7 +75,7 @@ int main()
     }
     return 0;
 }
-
+```
 # OUTPUT:
 <img width="1787" height="959" alt="image" src="https://github.com/user-attachments/assets/b57e9337-8aab-43f4-bd7c-cedcec0f9bad" />
 <img width="1819" height="977" alt="image" src="https://github.com/user-attachments/assets/cbb9ea23-dcc5-4bd1-b196-a275009ffe34" />
@@ -109,7 +112,7 @@ Write a program to find minimum between two fraction numbers using conditional o
 7.	Print the minimum value.
 
 ## PROGRAM:
-
+```
 #include<stdio.h>
 int main()
 {
@@ -130,7 +133,7 @@ int main()
     return 0;
     
 }
-
+```
 ## OUTPUT:
 
 <img width="1896" height="961" alt="image" src="https://github.com/user-attachments/assets/40d128c3-0761-40e3-9dd3-3e048b7fb78a" />
@@ -162,6 +165,7 @@ Write a C program to check whether the input value is equal to 1 using simple if
 6.	End the program.
 
 ## PROGRAM:
+```
 #include<stdio.h>
 int main()
 {
@@ -177,7 +181,7 @@ int main()
     }
     return 0;
 }
-
+```
 
 ## OUTPUT:
 <img width="1844" height="965" alt="image" src="https://github.com/user-attachments/assets/6316c22a-53a0-407d-a176-d89e996bec4b" />
@@ -217,7 +221,7 @@ c.	Else if percentage >= 36: Print “Division = Pass”
 9.	Else: Print “Division = Fail”
 10.	End
 ## PROGRAM:
-
+```
 #include<stdio.h>
 int main()
 {
@@ -257,7 +261,7 @@ int main()
     return 0;
     
 }
-
+```
 ## OUTPUT:
 <img width="1840" height="957" alt="image" src="https://github.com/user-attachments/assets/89af5f4e-58e7-44b6-b46d-a498a559e0c2" />
 <img width="1920" height="957" alt="image" src="https://github.com/user-attachments/assets/78b9373b-ef54-4b62-a18f-26d2368a899e" />
